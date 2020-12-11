@@ -1,0 +1,8 @@
+[jenkins]
+ubuntu@ec2-13-48-49-217.eu-north-1.compute.amazonaws.com
+
+[testing]
+ubuntu@ec2-13-53-199-59.eu-north-1.compute.amazonaws.com
+
+[production]
+ubuntu@ec2-13-53-137-62.eu-north-1.compute.amazonaws.com

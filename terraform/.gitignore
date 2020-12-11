@@ -10,3 +10,6 @@ terraform.tfvars
 
 # Public keys
 *.pem
+
+# Private keys
+*.key
